@@ -1,0 +1,9 @@
+E:\IT 2019-20\Gauri Kolhe\ProjectCakeShop\ProjectCakeShop\bin\ProjectCakeShop.dll
+E:\IT 2019-20\Gauri Kolhe\ProjectCakeShop\ProjectCakeShop\bin\ProjectCakeShop.pdb
+E:\IT 2019-20\Gauri Kolhe\ProjectCakeShop\ProjectCakeShop\obj\Debug\ProjectCakeShop.dll
+E:\IT 2019-20\Gauri Kolhe\ProjectCakeShop\ProjectCakeShop\obj\Debug\ProjectCakeShop.pdb
+C:\Users\Mr Pankaj\Desktop\projectCackShop\ProjectCakeShop\bin\ProjectCakeShop.dll
+C:\Users\Mr Pankaj\Desktop\projectCackShop\ProjectCakeShop\bin\ProjectCakeShop.pdb
+C:\Users\Mr Pankaj\Desktop\projectCackShop\ProjectCakeShop\obj\Debug\ProjectCakeShop.dll
+C:\Users\Mr Pankaj\Desktop\projectCackShop\ProjectCakeShop\obj\Debug\ProjectCakeShop.pdb
+C:\Users\Mr Pankaj\Desktop\projectCackShop\ProjectCakeShop\obj\Debug\ProjectCakeShop.csprojResolveAssemblyReference.cache
